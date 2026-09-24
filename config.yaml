@@ -1,0 +1,46 @@
+job_categories:
+
+  - category: Senior Data Scientist
+    keywords:
+      - senior data scientist
+
+  - category: Senior Machine Learning Engineer
+    keywords:
+      - senior machine learning engineer
+
+  - category: Machine Learning Engineer
+    keywords:
+      - machine learning engineer
+      - ml engineer
+
+  - category: Data Scientist
+    keywords:
+      - data scientist
+
+  - category: Data Analyst
+    keywords:
+      - data analyst
+
+  - category: Senior Data Engineer
+    keywords:
+      - senior data engineer
+
+  - category: Data Engineer
+    keywords:
+      - data engineer
+
+  - category: Business Analyst
+    keywords:
+      - business analyst
+
+  - category: Database Administrator
+    keywords:
+      - database administrator
+
+  - category: Database Developer
+    keywords:
+      - database developer
+
+  - category: Software Engineer
+    keywords:
+      - software engineer
