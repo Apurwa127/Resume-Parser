@@ -1,46 +1,64 @@
 job_categories:
 
-  - category: Senior Data Scientist
+  - category: "Machine Learning Engineer"
     keywords:
-      - senior data scientist
+      - "machine learning engineer"
+      - "ml engineer"
+      - "machine learning developer"
+      - "ml developer"
 
-  - category: Senior Machine Learning Engineer
+  - category: "Data Scientist"
     keywords:
-      - senior machine learning engineer
+      - "data scientist"
+      - "data science"
+      - "applied scientist"
+      - "research scientist"
 
-  - category: Machine Learning Engineer
+  - category: "Data Analyst"
     keywords:
-      - machine learning engineer
-      - ml engineer
+      - "data analyst"
+      - "data analytics"
+      - "analytics analyst"
 
-  - category: Data Scientist
+  - category: "Data Engineer"
     keywords:
-      - data scientist
+      - "data engineer"
+      - "data engineering"
+      - "etl developer"
 
-  - category: Data Analyst
+  - category: "Software Engineer"
     keywords:
-      - data analyst
+      - "software engineer"
+      - "software developer"
+      - "software development engineer"
+      - "sde"
 
-  - category: Senior Data Engineer
+  - category: "Business Analyst"
     keywords:
-      - senior data engineer
+      - "business analyst"
+      - "business analysis"
 
-  - category: Data Engineer
+  - category: "Database"
     keywords:
-      - data engineer
+      - "database administrator"
+      - "database developer"
+      - "database engineer"
 
-  - category: Business Analyst
+  - category: "Business Intelligence"
     keywords:
-      - business analyst
+      - "bi developer"
+      - "business intelligence"
+      - "business intelligence developer"
+      - "tableau developer"
 
-  - category: Database Administrator
+  - category: "AI Engineer"
     keywords:
-      - database administrator
+      - "ai engineer"
+      - "ai developer"
+      - "artificial intelligence engineer"
 
-  - category: Database Developer
+  - category: "Cloud Engineer"
     keywords:
-      - database developer
-
-  - category: Software Engineer
-    keywords:
-      - software engineer
+      - "cloud engineer"
+      - "cloud developer"
+      - "cloud architect"
